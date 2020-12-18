@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GanTestApplication</string>
+    <string name="occupation">Occupation</string>
+    <string name="status">Status</string>
+    <string name="nickname">Nick Name</string>
+    <string name="Seasonappearance">Season Appearance</string>
+</resources>
