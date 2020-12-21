@@ -14,7 +14,9 @@
 * Android Studio (version 4.0).
 * If kotlin plugin is not installed in Android Studio.
 * install Kotlin plugin in Android Studio.
+
  File-> Setting-> plugin -> MarketPlace -> type kotlin in search bar -> Install -> Apply-> ok.
+ 
 * Minimum SDK version 21.
 * Compile SDK version 29.
 * Testing Mobile Device (Android version 10).
@@ -71,8 +73,39 @@ Android Studio -> File -> Open
 select file "GAN TestApplication" -> OK
 
 Run Project 
- Android Studio -> Run -> Run "app"
- Select emulator or connect a real Android device and if you run app in real Android Device make debugging mode ON.
+Android Studio -> Run -> Run "app"
+
+Select emulator or connect a real Android device and if you run the app in real Android Device make debugging mode ON.
+
+Mobile Debugging select below option in phone.
+
+Setting -> Additional Setting -> Developer Option - > USB Debugging 
+
+make USB Debuggin ON.
+
+Finally App run in you phone and its look like
+
+
+* Gridview of Breaking Character with image and name is showing in the recyclerview by calling Networking API through Retrofit.
+  ![](/Screenshot_2020-12-18-18-05-35-737_com.example.gantestapplication.jpg)
+  
+* Search option is available in ActionBar search Breaking Bad Character by typing the name on the search bar and tap on search key in keypad.
+![](/Screenshot_2020-12-18-18-05-50-375_com.example.gantestapplication.jpg)
+
+* Tap in list item in gridview for showing details of character.
+![](/Screenshot_2020-12-18-18-05-41-064_com.example.gantestapplication.jpg)
+
+
+  
+  
+  
+  
+
+
+
+
+
+
  
  
  
